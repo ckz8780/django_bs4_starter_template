@@ -29,7 +29,7 @@ If you are ok with using `my_project` and `my_app` for your project and app name
 5. **my_app/apps.py**: Update app config (see comments in file)
 6. *Completely Optional (for perfectionists): change comments (urls.py, manage.py, etc) to match your new project/app name*
 7. Rename my_project and my_app folders to your new project and app names (these **must** match the updates you made above!)
-8. Delete .git folder and re-initialize your own: `git init`
+8. Delete src/.git folder and re-initialize your own: `git init`
 
 ### Start the server!
 

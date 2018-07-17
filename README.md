@@ -14,8 +14,8 @@ A minimalist mobile-responsive template for starting a Django/Bootstrap project,
 1. Create a virtualenv: `python -m virtualenv my_venv_name`
 2. `cd my_venv_name`
 3. Activate it: `source bin/activate` (POSIX), `.\Scripts\activate` (Windows)
-4. `mkdir src` and clone this repo into it
-5. `cd src`
+4. `mkdir src`
+5. `cd src` and and clone this repo into it (`git clone https://github.com/ckz8780/django_bs4_starter_template.git .`)
 6. `pip install -r requirements.txt` (may require `sudo` opn POSIX systems)
 
 ### Config:
@@ -29,6 +29,7 @@ If you are ok with using `my_project` and `my_app` for your project and app name
 5. **my_app/apps.py**: Update app config (see comments in file)
 6. *Completely Optional (for perfectionists): change comments (urls.py, manage.py, etc) to match your new project/app name*
 7. Rename my_project and my_app folders to your new project and app names (these **must** match the updates you made above!)
+8. Delete .git folder and re-initialize your own: `git init`
 
 ### Start the server!
 

@@ -1,6 +1,6 @@
 # Rapid-fire Django/Bootstrap 4 Starter Template
 
-A minimalist mobile-responsive template for starting a Django/Bootstrap project, utilizing Django 2.0 Bootstrap 4, jQuery, a base template and basic navigation, a sticky header and a footer. Using this template assumes you know how Django works, you've gotten sick of repetitively creating the core layout for Django projects and just want to rename a few things and get coding! There may be missing steps in this readme, but I've tried to make sure to cover everything. If it doesn't work perfectly, I trust that you'll be able to figure it out :) If not, submit a pull request and I'll fix it! Note that you may want to update CDN links to new versions of stuff as this repo ages.
+A minimalist mobile-responsive template for starting a Django/Bootstrap project, utilizing Django (latest), Bootstrap 4, jQuery, a base template and basic navigation, a sticky header and a footer. Using this template assumes you know how Django works, you've gotten sick of repetitively creating the core layout for Django projects and just want to rename a few things and get coding! There may be missing steps in this readme, but I've tried to make sure to cover everything. If it doesn't work perfectly, I trust that you'll be able to figure it out :) If not, submit a pull request and I'll fix it! Note that you may want to update CDN links to new versions of stuff as this repo ages.
 
 ### Includes setup for:
 
